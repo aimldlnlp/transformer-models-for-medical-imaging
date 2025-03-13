@@ -1,4 +1,5 @@
-# Project Title
+# Advanced Image Classification Framework Leveraging Vision Transformer (ViT), Swin Transformer, and MaxViT Architectures for Superior Visual Recognition
+
 
 ## Overview
 This project implements various image classification models using TensorFlow, including Vision Transformer (ViT), Swin Transformer, and MaxViT. The goal is to provide a comprehensive framework for training and evaluating these models on image datasets.
